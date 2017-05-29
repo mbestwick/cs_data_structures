@@ -3,7 +3,7 @@ def string_compare(s1, s2):
 
     Put runtime here:
     -----------------
-    [     O(n^2)          ]
+    [     O(n)          ]
 
 
     """
@@ -38,7 +38,7 @@ def sum_zero_1(numbers):
 
     Put runtime here:
     -----------------
-    [               ]
+    [       O(n^2)        ]
 
     """
 
@@ -60,7 +60,7 @@ def sum_zero_2(numbers):
 
     Put runtime here:
     -----------------
-    [               ]
+    [      O(2^n)         ]
 
     """
 
@@ -80,7 +80,7 @@ def sum_zero_3(numbers):
 
     Put runtime here:
     -----------------
-    [               ]
+    [       O(2^n)        ]
 
     """
 
