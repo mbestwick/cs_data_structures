@@ -46,6 +46,15 @@ after it.
 
 <<< Trees >>>
 
-1. 
+1. food, Italian, Indian, Mexican, lasagna, pizza, tikka masala, saag, burritos
+
+2. food, Mexican, enchiladas, tacos, burritos, Indian, saag, tikka masala,
+Italian, pizza, Sicilian, New York-style, Chicago-style
+
+3. Each node in a binary search tree can only have up to 2 children, and the
+position of each child (left or right) is dependent on a specific rule that
+applies to each node in the tree. Because the rule is the same at each node,
+it is very easy to traverse a tree from root to leaf, and only takes one
+direct path.
 
 """
